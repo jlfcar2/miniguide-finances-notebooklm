@@ -13,11 +13,14 @@ Os objetivos de estudo definidos para este material são:
 
 ## 2. Curadoria de Fontes
 
-Para garantir a maturidade técnica, as fontes abaixo foram processadas e analisadas:
-*   **Curso de Indicadores Fundamentalistas (Canais 500 Pratas):** Série de transcrições que detalham a construção de múltiplos a partir de dados contábeis reais.
-*   **"Sem Medo de Investir em Ações" (Salomão & Santiago):** Obra que fundamenta a estratégia de portfólio comparada ao futebol e alerta sobre vieses psicológicos.
-*   **Central de Balanços (Governo Federal):** Fonte oficial para consulta de demonstrações financeiras autenticadas.
-*   **Portais de Dados Financeiros (Fundamentus, Investidor10, Status Invest):** Plataformas essenciais para triagem (*screening*) de ações e análise de históricos de dividendos.
+As fontes selecionadas para este estudo integram dados técnicos e estratégias práticas de grandes nomes do mercado:
+
+*   **Curso de Indicadores Fundamentalistas (Canal 500 Pratas):** Série de vídeos didáticos que explicam a formação dos indicadores a partir do balanço contábil. Disponível em: [YouTube - 500 Pratas](https://www.youtube.com/@500pratas).
+*   **Fundamentus:** Sistema online de dados financeiros e fundamentalistas para triagem de ações. Disponível em: [fundamentus.com.br](https://www.fundamentus.com.br).
+*   **Investidor10:** Plataforma de análise com rankings, históricos de dividendos e múltiplos de preço. Disponível em: [investidor10.com.br](https://investidor10.com.br).
+*   **Status Invest:** Portal focado em cotações, comunicados ao mercado e indicadores de rentabilidade. Disponível em: [statusinvest.com.br](https://statusinvest.com.br).
+*   **Central de Balanços (Governo Federal):** Repositório oficial que reúne e autentica demonstrações contábeis das empresas. Disponível em: [gov.br - Consultar Balanços](https://www.gov.br/pt-br/servicos/consultar-balancos-contabeis).
+*   **Livro "Sem Medo de Investir em Ações":** Obra fundamental de Thiago Salomão e Renato Santiago (2023), que utiliza analogias esportivas para desmistificar a Bolsa. O livro pode ser adquirido através do selo **Portfolio-Penguin** no site da [Editora Schwarcz/Companhia das Letras](https://www.blogdacompanhia.com.br/selo/Portfolio-Penguin) ou em grandes livrarias e plataformas de e-commerce.
 
 ## 3. Engenharia de Prompts e "Cicatrizes"
 
