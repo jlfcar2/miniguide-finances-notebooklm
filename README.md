@@ -46,8 +46,9 @@ A construção deste conhecimento envolveu o refinamento de comandos estratégic
 *   **Dividend Yield (DY):** Porcentagem de lucro distribuída em relação ao preço da ação.
 
 ### Prompts Reutilizáveis para Revisão
-1.  *"Analise o **Balanço Patrimonial** do ticker [XYZ] e indique se o Patrimônio Líquido é positivo e crescente."*
-2.  *"Calcule o **Preço Justo** usando a Fórmula de Graham (raiz de 22,5 * LPA * VPA)."*
-3.  *"Compare a **Margem Líquida** e o **ROIC** desta empresa com seus pares de setor para medir a eficiência operacional."*
-4.  *"Explique se esta ação se comporta como um **Zagueiro** ou um **Atacante** baseando-se no seu Dividend Yield histórico."*
-5.  *"Analise a Liquidez Corrente de [Ticker] para verificar sua capacidade de pagar dívidas em menos de um ano."*
+1.  *"Qual a cotação atual do ticker [XYZ]?"*
+2.  *"Analise o **Balanço Patrimonial** do ticker [XYZ] e indique se o Patrimônio Líquido é positivo e crescente."*
+3.  *"Calcule o **Preço Justo** usando a Fórmula de Graham (raiz de 22,5 * LPA * VPA)."*
+4.  *"Compare a **Margem Líquida** e o **ROIC** desta empresa com seus pares de setor para medir a eficiência operacional."*
+5.  *"Explique se esta ação se comporta como um **Zagueiro** ou um **Atacante** baseando-se no seu Dividend Yield histórico."*
+6.  *"Analise a Liquidez Corrente de [Ticker] para verificar sua capacidade de pagar dívidas em menos de um ano."*
