@@ -1,6 +1,6 @@
 # miniguide-fundamentalist-tactics-notebooklm
 
-# Tática Fundamentalista: O Guia do Time Vencedor na Bolsa
+### Tática Fundamentalista: O Guia do Time Vencedor na Bolsa
 
 ## 1. Contexto e Objetivos
 
