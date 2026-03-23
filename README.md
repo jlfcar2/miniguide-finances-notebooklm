@@ -47,6 +47,7 @@ A construção deste conhecimento envolveu o refinamento de comandos estratégic
 
 ### Prompts Reutilizáveis para Revisão
 1.  *"Analise o **Balanço Patrimonial** do ticker [XYZ] e indique se o Patrimônio Líquido é positivo e crescente."*
-2.  *"Calcule o **Preço Justo** pela Fórmula de Graham para uma ação com LPA de [X] e VPA de [Y]."*
+2.  *"Calcule o **Preço Justo** usando a Fórmula de Graham (raiz de 22,5 * LPA * VPA)."*
 3.  *"Compare a **Margem Líquida** e o **ROIC** desta empresa com seus pares de setor para medir a eficiência operacional."*
 4.  *"Explique se esta ação se comporta como um **Zagueiro** ou um **Atacante** baseando-se no seu Dividend Yield histórico."*
+5.  *"Analise a Liquidez Corrente de [Ticker] para verificar sua capacidade de pagar dívidas em menos de um ano."*
