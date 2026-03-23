@@ -4,7 +4,7 @@
 
 ## 1. Contexto e Objetivos
 
-Este caderno temático foi criado com o propósito de transformar o investidor comum em um verdadeiro **técnico e dirigente** de sua própria carteira de ações. O assunto central é a aplicação da **Análise Fundamentalista** através de analogias táticas do futebol, permitindo uma compreensão intuitiva de como selecionar empresas sólidas e montar um portfólio equilibrado na B3.
+Este repositório foi criado com o propósito de trazer um passo-a-passo para a criação de um caderno temático na plataforma NotebookLM com o tema de investimentos, utilizando análise fundamentalista, focando em um público leigo baseado no Brasil. O objetivo do caderno temático é transformar o investidor comum em um **técnico e dirigente** de sua própria carteira de ações. O assunto central é a aplicação da **Análise Fundamentalista** através de analogias táticas do futebol, permitindo uma compreensão intuitiva de como selecionar empresas sólidas e montar um portfólio equilibrado na B3.
 
 Os objetivos de estudo definidos para este material são:
 *   Aprender a interpretar o **Balanço Patrimonial** como a base de saúde da empresa.
