@@ -28,7 +28,8 @@ A construção deste conhecimento envolveu o refinamento de comandos estratégic
 
 *   **O Prompt Estratégico:** *"Como montar uma carteira equilibrada usando os conceitos de futebol?"* revelou a necessidade de separar empresas de **Valor** (Zaga) das de **Crescimento** (Ataque).
 *   **Dificuldades Técnicas (Troubleshooting):** Inicialmente, os múltiplos eram vistos de forma fria. Foi necessário o prompt: *"Converse sobre LPA no contexto de Indicadores de Preço"* para entender que o lucro é o dado real e a cotação é a esperança do mercado.
-*   **A Cicatriz do "Zé Cotinha":** Ao questionar sobre erros comuns, a IA identificou o viés de **comprar na euforia e vender no pânico**. Isso levou à criação da seção sobre **rebalanceamento sistemático** para forçar a compra na baixa e venda na alta.
+*   **O problema do "Zé Cotinha":** Ao questionar sobre erros comuns, a IA identificou o viés de **comprar na euforia e vender no pânico**. Isso levou à criação da seção sobre **rebalanceamento sistemático** para forçar a compra na baixa e venda na alta.
+*   **Falta de visibilidade com dados atualizados** Ao questionar sobre a montagem de uma carteira de investimentos, identifiquei a necessidade de incluir fontes como "Investidor10", "StatusInvest" e "Central de Balanços (Governo Federal)", além do próprio "Fundamentus", para dar visibilidade ao modelo para responder sobre os melhores ativos com embasamento em dados recentes.
 
 ## 4. Miniguia de Estudo (Entrega Final)
 
